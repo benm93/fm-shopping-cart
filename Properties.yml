@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql://foundation-medicine-cart.co2uqrteivhy.us-east-1.rds.amazonaws.com:3306/fm_application
+spring.datasource.username=admin
+spring.datasource.password=fm-admin
